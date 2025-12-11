@@ -1,4 +1,4 @@
-//Leetcode-121.Best time to buy sell stock
+//✅Leetcode-121.Best time to buy sell stock
 function maxProfit(prices) {
   let min = prices[0];
   let maxProfit = 0;
